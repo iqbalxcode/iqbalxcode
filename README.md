@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Iqbal Rakha'</h1>
-<h3 align="center">A passionate frontend developer from Nganjuk, Jawa Timur</h3>
+<h3 align="center"> from Nganjuk, Jawa Timur</h3>
 
 - 📫 How to reach me **muhammad.iqbal.rakha@gmail.com**
 
